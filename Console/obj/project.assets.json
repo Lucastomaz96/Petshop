@@ -664,30 +664,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\campos.rafael\\.nuget\\packages\\": {},
+    "C:\\Users\\45252809801\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\rosante\\projetos\\Petshop-1\\Console\\Console.csproj",
+      "projectUniqueName": "c:\\Users\\45252809801\\backend\\Petshop\\Console\\Console.csproj",
       "projectName": "Console",
-      "projectPath": "c:\\rosante\\projetos\\Petshop-1\\Console\\Console.csproj",
-      "packagesPath": "C:\\Users\\campos.rafael\\.nuget\\packages\\",
-      "outputPath": "c:\\rosante\\projetos\\Petshop-1\\Console\\obj\\",
+      "projectPath": "c:\\Users\\45252809801\\backend\\Petshop\\Console\\Console.csproj",
+      "packagesPath": "C:\\Users\\45252809801\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\45252809801\\backend\\Petshop\\Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\campos.rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\45252809801\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
